@@ -1,0 +1,23 @@
+.header{
+    width: 90%;
+    margin: 0px;
+    background-color: #eeeeee;
+    padding: 20px 100px;
+    display:inline-table;
+    font-size: 20px;
+}
+.detail{
+    margin: 40px 60px;
+    display: inline-flex;
+}
+.detail .pro-img img{
+    width: 130%;
+    height: 130%;
+}
+.detail .content{
+    width: 90%;
+    padding: 0px 50px;
+}
+.pro-name,.pro-code,.pro-manufacturer,.pro-category,.pro-unit,.pro-des,.pro-price,.button{
+    margin: 5px 0px;
+}
